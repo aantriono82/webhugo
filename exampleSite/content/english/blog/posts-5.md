@@ -68,9 +68,9 @@ a. Matematika Inline
 Untuk menulis ekspresi matematika inline, gunakan tanda dolar tunggal ($).
 
 Contoh:
-```
+
 $E = mc^2$
-```
+
 Hasil: $E = mc^2$
 
 b. Matematika Blok
