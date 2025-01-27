@@ -1,29 +1,29 @@
 ---
 enable: true
-title: "What Users Are Saying About Hugoplate"
-description: "Don't just take our word for it - hear from some of our satisfied users!  Check out some of our testimonials below to see what others are saying about Hugoplate."
+title: "Apa yang akan kita pelajari?"
+description: "Belajar dari hal-halyang sederhana hingga menjelma menjadi sebuah karya."
 
 # Testimonials
 testimonials:
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Aan Triono"
+    designation: "Web Developer"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Membangun sebuah website berbasis HTML, CSS, dan JS. Pun website berbasis Static Site Generator Hugo"
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Aan Triono"
+    designation: "Linux User"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Menggunakan sistem operasi komputer berbasis GNU/Linux sebagai alternatif pengganti sistem operasi Windows."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Aan Triono"
+    designation: "LaTeX User"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Menulis dokumen menggunakan pengolah kata LaTeX dan Markdown."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Aan Triono"
+    designation: "Butiran debu"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Mencari makna kehidupan meski hanya lewat untaian kata."
 
 # don't create a separate page
 _build:
