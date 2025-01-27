@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Belajar apa hari ini?"
-  content: "Belajar membangun sebuah website berbasis SSG Hugo menggunakan sistem operasi GNU/Linux dan penulisan dokumen menggunakan LaTeX."
+  content: "Belajar membangun sebuah website berbasis SSG Hugo menggunakan sistem operasi GNU/Linux dan penulisan dokumen menggunakan LaTeX. :heart_eyes:"
   image: "/images/banner.png"
   button:
     enable: true
