@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Get Started For Free"
-    link: "#"
+    link: "https://aantriono.netlify.app/blog/"
 
 # Features
 features:
