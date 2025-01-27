@@ -71,7 +71,7 @@ Contoh:
 ```tex
 $E = mc^2$
 ```
-Hasil: $E=mc^2$
+Hasil: $E = mc^2$
 
 b. Matematika Blok
 Gunakan tanda dolar ganda ($$) untuk membuat ekspresi matematika dalam bentuk blok.
@@ -165,7 +165,7 @@ KaTeX memiliki error handling yang baik. Jika Anda menulis sintaks yang salah, e
 Ini adalah contoh penggunaan KaTeX di Markdown.
 
 ## Contoh Inline
-Rumus terkenal oleh Einstein: $E=mc^2$
+Rumus terkenal oleh Einstein: $E = mc^2$
 
 ## Contoh Blok
 Berikut adalah integral:
@@ -188,7 +188,7 @@ Beberapa simbol Greek: $\alpha$, $\beta$, $\gamma$.
 
 ## Gaya Visual
 Huruf tebal: $\mathbf{A}$.
- Huruf miring: $\mathit{A}$.
+Huruf miring: $\mathit{A}$.
 Hasilnya akan dirender sesuai dengan konfigurasi KaTeX Anda.
 
 ## Kesimpulan
