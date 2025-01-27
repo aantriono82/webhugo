@@ -18,7 +18,7 @@ testimonials:
   - name: "Aan Triono"
     designation: "LaTeX User"
     avatar: "/images/avatar-sm.png"
-    content: "Menulis dokumen menggunakan pengolah kata LaTeX dan Markdown."
+    content: "Menulis dokumen menggunakan pengolah kata LaTeX dan juga menggunakan Markdown dalam menulis konten website berbasis Hugo."
 
   - name: "Aan Triono"
     designation: "Butiran debu"
