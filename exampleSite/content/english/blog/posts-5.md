@@ -3,7 +3,7 @@ title: "Menulis Ekspresi Matematika dengan Markdown"
 meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/katex.png"
 categories: ["Architecture"]
 author: "Aan Triono"
 tags: ["LaTeX", "KaTeX"]
