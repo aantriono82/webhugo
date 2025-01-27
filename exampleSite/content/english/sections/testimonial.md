@@ -1,7 +1,7 @@
 ---
 enable: true
 title: "Apa yang akan kita pelajari?"
-description: "Belajar dari hal-halyang sederhana hingga menjelma menjadi sebuah karya."
+description: "Belajar dari hal-hal yang sederhana hingga menjelma menjadi sebuah karya."
 
 # Testimonials
 testimonials:
