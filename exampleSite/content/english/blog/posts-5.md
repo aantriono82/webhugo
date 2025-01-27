@@ -93,7 +93,7 @@ Perkalian: x \cdot y atau x \times y
 Pecahan: \frac{a}{b}
 Akar: \sqrt{x}
 Contoh:
-```
+```tex
 $$
 \frac{1}{\sqrt{2\pi}} e^{-\frac{x^2}{2}}
 $$
@@ -110,7 +110,7 @@ Greek kecil: \alpha, \beta, \gamma
 Greek besar: \Gamma, \Delta
 Lainnya: \infty (tak hingga), \partial (derivatif parsial), \nabla (operator nabla)
 Contoh:
-```
+```tex
 $\alpha + \beta = \gamma$
 ```
 Hasil:
@@ -120,7 +120,7 @@ e. Matriks dan Sistem Persamaan
 KaTeX mendukung format matriks menggunakan perintah \begin{matrix}.
 
 Contoh:
-```
+```tex
 $$
 \begin{bmatrix}
 a & b \\
@@ -147,7 +147,7 @@ Teks Tebal: \mathbf{A} untuk huruf tebal.
 Huruf Miring: \mathit{A} untuk huruf miring.
 Ukuran Font: \small, \large, \Huge.
 Contoh:
-```
+```tex
 $$
 \mathbf{F} = \frac{d}{dt} \mathit{p}
 $$
