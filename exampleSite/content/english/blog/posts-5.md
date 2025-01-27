@@ -3,13 +3,13 @@ title: "Menulis Ekspresi Matematika dengan Markdown"
 meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
-image: "/images/katex.png"
+image: "/exampleSite/assets/images/gallery/katex.png"
 categories: ["Architecture"]
 author: "Aan Triono"
 tags: ["LaTeX", "KaTeX"]
 draft: false
 ---
-![Katex](exampleSite/images/katex.png)
+
 # Menulis Ekspresi Matematika Menggunakan KaTeX di Markdown
 KaTeX adalah pustaka JavaScript yang memungkinkan Anda untuk merender ekspresi matematika menggunakan sintaks LaTeX di halaman web. KaTeX dikenal cepat dan ringan, membuatnya ideal untuk menampilkan ekspresi matematika di Markdown, terutama dalam aplikasi web atau statis seperti Hugo, Jekyll, atau situs HTML biasa.
 
