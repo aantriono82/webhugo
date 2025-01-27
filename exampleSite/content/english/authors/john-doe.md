@@ -1,5 +1,5 @@
 ---
-title: Aan Triono
+title: John Doe
 email: aantriono82@gmail.com
 image: "/images/avatar.png"
 description: this is meta description
