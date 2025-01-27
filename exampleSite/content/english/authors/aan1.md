@@ -1,5 +1,5 @@
 ---
-title: Aan Triono1
+title: Aan Triono
 email: aantriono82@gmail.com
 image: "/images/avatar.png"
 description: this is meta description
