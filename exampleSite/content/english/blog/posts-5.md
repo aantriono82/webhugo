@@ -68,7 +68,7 @@ a. Matematika Inline
 Untuk menulis ekspresi matematika inline, gunakan tanda dolar tunggal ($).
 
 Contoh:
-```
+```tex
 $E = mc^2$
 ```
 Hasil: $E = mc^2$
@@ -77,7 +77,7 @@ b. Matematika Blok
 Gunakan tanda dolar ganda ($$) untuk membuat ekspresi matematika dalam bentuk blok.
 
 Contoh:
-```
+```tex
 $$
 \int_a^b f(x) \ dx = F(b) - F(a)
 $$
