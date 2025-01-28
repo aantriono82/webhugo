@@ -4,7 +4,7 @@ meta_title: ""
 description: "this is meta description"
 date: 2025-01-29
 image: "/images/katex.png"
-categories: ["Himah"]
+categories: ["Hikmah"]
 author: "Azkia Rahma"
 tags: ["Dunia", "Al-Qur'an"]
 draft: false
@@ -49,4 +49,4 @@ Renungkan dan fikirkan. Mari kita sama-sama berdiskusi.
 
 ## Kesimpulan 
 Dalam menghadapi tantangan dunia, Al-Qur'an memberikan solusi yang bersifat holistik: keadilan, perdamaian, pelestarian lingkungan, dan penguatan spiritual. Manusia diajak untuk kembali kepada nilai-nilai ilahiah yang dapat membawa kehidupan menuju keberkahan dan keharmonisan. Dengan mengamalkan ajaran Al-Qur'an, baik dalam aspek pribadi maupun sosial, kita dapat membangun dunia yang lebih baik untuk generasi mendatang. 
-Semoga Allah membimbing kita untuk selalu berada di jalan yang lurus dan meraih ridha-Nya. Amin.
+Semoga Allah membimbing kita untuk selalu berada di jalan yang lurus dan meraih ridha-Nya. Aamiin.
