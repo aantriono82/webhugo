@@ -3,7 +3,7 @@ title: "Renungan Diri"
 meta_title: ""
 description: "this is meta description"
 date: 2025-01-29
-image: "/images/katex.png"
+image: "/images/bumi.jpg"
 categories: ["Hikmah"]
 author: "Azkia Rahma"
 tags: ["Dunia", "Al-Qur'an"]
