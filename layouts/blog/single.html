@@ -67,6 +67,9 @@
             </div>
           </div>
           <!-- comments -->
+          iframe[sandbox]:not([sandbox=""]) {
+          display: none !important;
+          }
           {{ if site.Config.Services.Disqus.Shortname }}
             <div class="mt-20">
               {{ template "_internal/disqus.html" . }}
