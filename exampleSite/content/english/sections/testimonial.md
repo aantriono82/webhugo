@@ -1,27 +1,27 @@
 ---
 enable: true
-title: "Apa yang akan kita pelajari?"
+title: "Belajar apa hari ini?"
 description: "Belajar dari hal-hal yang sederhana hingga menjelma menjadi sebuah karya."
 
 # Testimonials
 testimonials:
   - name: "Aan Triono"
-    designation: "Web Developer"
+    designation: "Butiran Debu"
     avatar: "/images/avatar-sm.png"
-    content: "Membangun sebuah website berbasis HTML, CSS, dan JS. Pun website berbasis Static Site Generator Hugo"
+    content: "Membangun sebuah website berbasis HTML, CSS, JavaScript dan Static Site Generator Hugo"
 
-  - name: "Aan Triono"
+  - name: "Afra Kamila"
     designation: "Linux User"
     avatar: "/images/avatar-sm.png"
-    content: "Menggunakan sistem operasi komputer berbasis GNU/Linux sebagai alternatif pengganti sistem operasi Windows."
+    content: "Menggunakan sistem operasi komputer berbasis GNU/Linux dalam pekerjaan sehari-hari."
 
-  - name: "Aan Triono"
+  - name: "Atika Azka"
     designation: "LaTeX User"
     avatar: "/images/avatar-sm.png"
-    content: "Menulis dokumen menggunakan pengolah kata LaTeX dan juga menggunakan Markdown dalam menulis konten website berbasis Hugo."
+    content: "Menulis dokumen dan konten website meggunakan LaTeX dan Markdown."
 
-  - name: "Aan Triono"
-    designation: "Butiran debu"
+  - name: "Azkia Rahma"
+    designation: "Web Developer"
     avatar: "/images/avatar-sm.png"
     content: "Mencari makna kehidupan meski hanya lewat untaian kata."
 
