@@ -1,5 +1,5 @@
 ---
-title: "Menulis Ekspresi Matematika dengan Markdown"
+title: "Menulis Ekspresi Matematika di Markdown"
 meta_title: ""
 description: "this is meta description"
 date: 2025-01-27 
