@@ -1,7 +1,7 @@
 ---
 title: Aan Triono
 email: aantriono82@gmail.com
-image: "/images/avatar.png"
+image: "/images/aan.png"
 description: this is meta description
 social:
   - name: github
