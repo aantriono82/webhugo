@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Aan Triono"
-  content: " 🌐 Web Developer 🌐 | 🔥 Arch Linux User 🔥 | ❤️ LaTeX User ❤️" 
+  content: " | 🔥 Arch Linux User 🔥 | 🌐 Web Developer 🌐 | ❤️ LaTeX User ❤️ |" 
   image: "/images/banner.png"
   button:
     enable: true
