@@ -7,7 +7,5 @@ draft: false
 ---
 
 Saya seorang pembelajar dalam dunia teknologi. Selengkapnya silakan kunjungi tautan berikut:
-button:
-    enable: true
-    label: "About Me"
-    link: "[https://aantriono.netlify.app/blog/](https://aantriono82.netlify.app/)"
+[![Tombol](https://img.shields.io/badge/Klik-Saya-blue?style=for-the-badge)]([https://example.com](https://aantriono82.netlify.app/))
+
