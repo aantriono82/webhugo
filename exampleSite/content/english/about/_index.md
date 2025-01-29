@@ -6,4 +6,8 @@ image: "/images/avatar.png"
 draft: false
 ---
 
-Saya seorang pembelajar dalam dunia teknologi. Selengkapnya silakan kunjungi tautan berikut
+Saya seorang pembelajar dalam dunia teknologi. Selengkapnya silakan kunjungi tautan berikut:
+button:
+    enable: true
+    label: "About Me"
+    link: "[https://aantriono.netlify.app/blog/](https://aantriono82.netlify.app/)"
