@@ -1,5 +1,5 @@
 ---
-title: Ann Doe
+title: Atika Azka
 email: anndoe@email.com
 image: "/images/avatar.png"
 description: this is meta description
