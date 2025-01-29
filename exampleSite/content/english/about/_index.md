@@ -6,4 +6,4 @@ image: "/images/avatar.png"
 draft: false
 ---
 
-Saya seorang Web Developer, Linux User, dan LaTeX User.
+Saya seorang pembelajar dalam dunia teknologi. Selengkapnya silakan kunjungi tautan berikut
