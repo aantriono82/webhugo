@@ -7,6 +7,6 @@ draft: false
 ---
 
 Saya seorang pembelajar dalam dunia teknologi. Selengkapnya silakan kunjungi tautan berikut:
-[![Tombol](https://img.shields.io/badge/Klik-Saya-blue?style=for-the-badge)]((https://aantriono82.netlify.app/))
+<a href="https://aantriono82.netlify.app" style="display:inline-block;padding:10px 20px;color:white;background-color:blue;text-decoration:none;border-radius:5px;">Klik Saya</a>
 
 
