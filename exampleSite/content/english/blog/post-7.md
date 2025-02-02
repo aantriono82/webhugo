@@ -9,7 +9,7 @@ author: "Azkia Rahma"
 tags: ["Dunia", "Al-Qur'an"]
 draft: false
 ---
-Berikut beberapa kata-kata hikmah dari kitab Hikam:
+Berikut beberapa kata-kata hikmah dari kitab Al-Hikam:
 > "Sebahagian tanda bergantung kepada amal adalah kurangnya raja' (harapan) ketika terjadi kesalahan."
 
 Maknanya, jika seseorang hanya bergantung kepada amal ibadahnya dan bukan kepada rahmat Allah, dia akan mudah putus asa apabila melakukan kesalahan.
@@ -26,6 +26,6 @@ Hikmah ini mengajarkan bahawa makrifat (pengenalan terhadap Allah) adalah anuger
 
 Zikir tetap perlu diteruskan walaupun hati masih belum khusyuk, kerana dengan konsistensi, Allah akan memberikan keberkatan dalam ibadah tersebut.
 
-> "Jangan merasa takut kerana rezekimu terlambat datang, kerana tiada seorang pun yang dapat mengambil rezekimu selain dirimu."
+> "Jangan merasa takut karena rezekimu terlambat datang, karena tiada seorang pun yang dapat mengambil rezekimu selain dirimu."
 
 Rezeki adalah ketentuan Allah, dan tidak akan terlepas daripada apa yang telah ditetapkan untuk seseorang.
