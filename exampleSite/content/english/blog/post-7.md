@@ -3,7 +3,7 @@ title: "Renungan Diri"
 meta_title: "Mutiara Hikmah "
 description: "this is meta description"
 date: 2025-02-02
-image: "/images/bumi.jpg"
+image: "/images/KITAB-AL-HIKAM_702.png"
 categories: ["Hikmah"]
 author: "Azkia Rahma"
 tags: ["Dunia", "Al-Qur'an"]
