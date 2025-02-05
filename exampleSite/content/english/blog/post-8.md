@@ -46,6 +46,6 @@ Distribusi (distro) GNU/Linux adalah versi sistem operasi yang dikemas dengan pe
 4. *Ekosistem Perangkat Lunak yang Kaya*:  
    Ada ribuan aplikasi open source yang tersedia untuk GNU/Linux, mencakup berbagai kebutuhan seperti perkantoran, multimedia, dan pengembangan perangkat lunak.
 
-### *Kesimpulan*
+## *Kesimpulan*
 
 GNU/Linux adalah sistem operasi yang kuat, fleksibel, dan bebas yang telah mengubah cara dunia memandang perangkat lunak. Dengan kombinasi proyek GNU dan kernel Linux, sistem ini menawarkan solusi yang stabil, aman, dan dapat disesuaikan untuk berbagai kebutuhan. Baik Anda seorang pengguna biasa, pengembang, atau administrator sistem, GNU/Linux menyediakan platform yang andal dan efisien untuk bekerja dan berinovasi.
