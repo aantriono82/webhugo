@@ -3,7 +3,7 @@ title: "Sejarah Singkat GNU/Linux"
 meta_title: ""
 description: "this is meta description"
 date: 2025-02-05
-image: "/images/gnu.jpeg"
+image: "/images/gnu.png"
 categories: ["Sistem Operasi"]
 author: "Afra Kamila"
 tags: ["Sistem Operasi", "Linux"]
