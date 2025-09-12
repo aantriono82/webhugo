@@ -4,7 +4,7 @@ meta_title: ""
 description: "this is meta description"
 date: 2025-01-27 
 image: "/images/katex.png"
-categories: ["Architecture"]
+categories: ["LaTeX"]
 author: "Aan Triono"
 tags: ["LaTeX", "KaTeX"]
 draft: false
